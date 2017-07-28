@@ -1,0 +1,23 @@
+{
+  "name": "kodes-js",
+  "version": "1.0.0",
+  "description": "Kodes Necklaces Generato JS Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morena/kodes-js.git"
+  },
+  "author": "Morena Fiore-Kirby, Paul Sandwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morena/kodes-js/issues"
+  },
+  "homepage": "https://github.com/morena/kodes-js#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "swig-templates": "^2.0.2"
+  }
+}
