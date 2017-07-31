@@ -18,6 +18,16 @@
   "homepage": "https://github.com/morena/kodes-js#readme",
   "dependencies": {
     "express": "^4.15.3",
+    "gulp-data": "^1.2.1",
+    "gulp-swig": "^0.8.0",
     "swig-templates": "^2.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "html": {
+    "source": "templates/pages",
+    "data": "templates/data/pages",
+    "dest": "dist/pages"
   }
 }
